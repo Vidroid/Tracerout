@@ -1,1 +1,5 @@
-
+Tracerout via icmp protocol. 
+Uses: winsock library and other
+Copied from "Программирование в сетях Windows" book and edited.
+Added: send-receive time print, three times sending to ip-addres, user input in console
+//sorry for my English
